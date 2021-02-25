@@ -1,0 +1,48 @@
+.login-page footer.main-footer {
+    display: none;
+}
+.custom-file-label::after {
+    content: "Añadir"!important;
+    color: black!important;
+}
+ul.lista-precios li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.lista-precios li .numero {
+    font-size: 30px;
+}
+h4.nombre_dia {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 16px;
+    color: #fe4918;
+}
+}
+.tabla-precio h3 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    color: #fe4918;
+}
+
+.contenido-dia {
+    display: none;
+}
+.contenido-dia label {
+    font-weight: normal;
+}
+.contenido-dia time {
+    color: #fe4918;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
